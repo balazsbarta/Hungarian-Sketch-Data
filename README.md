@@ -1,5 +1,22 @@
 # Hungarian Sketch Data
 
+## Elérhető adatok
+
+- Árak
+- Dátumok
+- Foglalkozások
+- Mobilszámok
+- Magyar férfi nevek
+- Magyar női nevek
+- Magyar nevek
+- Magyar vezetéknevek
+- Magyar keresztnevek
+- Budapest kerületei
+- Magyar települések
+- Magyar megyék
+- Magyar irányítószámok
+- Magyar utcanevek
+
 ## Követelmények
 
 [Sketch 52+](https://sketchapp.com)
