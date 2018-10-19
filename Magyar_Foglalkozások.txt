@@ -1,0 +1,128 @@
+Ács
+Ápoló, szakápoló
+Élelmiszeripari technikus
+Építményszigetelő
+Építményzsaluzat-szerelő
+Épület és építménybádogos
+Épületgépészeti tervezőmérnök
+Útépítő és -fenntartó technikus
+Üvegező
+Üzletpolitikai elemző és adószakértő
+Acél- és könnyűfém-szerkezeti technikus
+Alkalmazásprogramozó
+Aszfaltozó és útépítő 
+Autóbuszvezető
+Automatikai műszerész
+Bérszámfejtő
+Bútorasztalos
+Bútoripari technikus
+Banki ügyintéző
+Biztosítási ügynök
+Bérszámfejtő
+Bútorasztalos
+Bútoripari technikus
+Banki ügyintéző
+Biztosítási ügynök
+Ügyintéző
+Bolti eladó
+Borász
+Csecsemő- és kisgyermeknevelő
+Óvodapedagógus
+Cukrász
+Elektromechanikai műszerész
+Erdész
+Fémgyártási berendezés vezérlője
+Fémmegmunkáló
+Felületlakkozó
+Festő, mázoló
+Finommechanikai műszerész
+Fitness-wellness asszisztens
+Fodrász
+Fogtechnikus
+Egészségügyi ápoló
+Forgácsoló
+Fröccsöntőgép-kezelő
+Gépésztechnikus
+Gépgyártósori gépkezelő
+Gépszerelő
+Gépi kovács
+Gazda
+Gerontológiai gondozó
+Gipszkartonozó
+Stukkózó
+Gyógypedagógus
+Gyógyszerügynök
+Gyógyszertári asszisztens
+Gyorséttermi eladó
+Házi gondozó
+Háztartási gépszerelő 
+Húsfeldolgozó
+Hegesztő
+Hidegburkoló
+Hulladéktelep-kezelő
+Informatikai rendszergazda
+Rendszergazda
+Informatikus
+Ingatlanközvetítő
+Irodagép szerelő
+Kályha- és kandallóépítő
+Kárpitos
+Kártevőirtó
+Kéményseprő
+Kőfaragó
+Kőműves
+Karosszérialakatos
+Kereskedő
+Kereskedelmi ügyintéző
+Kereskedelmi ügynök
+Kereskedelmi vezető
+Kertépítő munkás
+Kontroller
+Látszerész
+Laboratóriumi technikus
+Lakatos
+Logisztikai ügyintéző
+Mélyépítő technikus
+Mérlegképes könyvelő
+Műanyagipari technikus
+Műszaki rajzoló
+Műszakicikk eladó
+Műtéti asszisztens
+Magasépítő technikus
+Masszőr
+Mechatronikai műszerész
+Melegburkoló
+Mentőápoló
+NC, CNC gépkezelő
+Nyomdai előkészítő
+Operátor
+Pék
+Parképítő 
+Pincér
+Raktáros
+Rendszerelemző
+Repülőgépszerelő
+Segédápoló
+Szállítmányozási ügyintéző
+Szállodai portás
+Recepciós
+Számítógépes műszaki rajzoló
+Számítógépszerelő
+Szabó
+Szakács
+Szerszámkészítő
+Szociális munkás
+Szociálpedagógus
+Tehergépkocsi- vezető
+Kamionsofőr
+Tejtermékgyártó
+Telekommunikációs technikus
+Tetőfedő
+Titkár
+Víz-gáz és fűtésszerelő
+Vegyészeti laboráns
+Vegyésztechnikus
+Villamosipari technikus
+Villamosmérnök
+Villanyszerelő
+Virágkereskedő
