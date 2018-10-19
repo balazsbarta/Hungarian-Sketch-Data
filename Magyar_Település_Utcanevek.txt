@@ -6,7 +6,7 @@ Bauer Sándor utca 33.
 II. János Pál pápa tér 84.
 Kis Salétrom utca 95.
 Kis Stáció utca 90.
-II. János Pál pápa tér tér 94.
+II. János Pál pápa tér 94.
 Tbiliszi tér 89.
 Bartoniek Géza lépcső 100.
 Bibó István park 11.
@@ -30,7 +30,7 @@ Bauer Sándor utca 50.
 II. János Pál pápa tér 75.
 Kis Salétrom utca 10.
 Kis Stáció utca 42.
-II. János Pál pápa tér tér 70.
+II. János Pál pápa tér 70.
 Tbiliszi tér 42.
 Carl Lutz rakpart 52.
 Wass Albert tér 77.
